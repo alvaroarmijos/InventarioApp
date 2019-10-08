@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">InventarioApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="item.product.count">Nombre:\nCantidad:</string>
+    <string name="item.product.data">%s \n(x%s)</string>
+    <string name="main.error.permission.denied">Lo siento, no tienes permiso para ver el inventario</string>
+    <string name="main.error.server">Error en el servidor, intente más tarde</string>
+    <string name="main.error.remove">Lo siento, no tiene permiso para elminar este producto</string>
+    <string name="main.dialog.remove.title">Eliminar producto</string>
+    <string name="main.dialog.remove.message">Este producto se elminará de forma permante</string>
+    <string name="main.dialog.remove.ok">Eliminar</string>
+    <string name="common.dialog.cancel">Cancelar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add.product.hint.photoUrl">url de foto</string>
+    <string name="add.product.hint.name">nombre</string>
+    <string name="add.product.hint.quantity">cantidad</string>
+    <string name="addProduct.message.validate.max.quantity">El valor debe ser menor a 1000</string>
+    <string name="addProduct.message.added.error">No se pudo guardar, intente mas tarde</string>
+    <string name="addProduct.title">Añadir producto</string>
+    <string name="addProduct.dialog_ok">Añadir</string>
+    <string name="addProduct.message.added.successfully">Producto agregado correctamente.</string>
+    <string name="addProduct.snackbar.action">OK</string>
+    <string name="common.valdiate.field.required">Este campo es requerido</string>
+    <string name="common.valdiate.min.quantity">El valor debe ser mayo a 0.</string>
+</resources>
